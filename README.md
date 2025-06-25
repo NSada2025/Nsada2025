@@ -97,13 +97,30 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 - **Web Development**: 13 (WD category)
 - **Others**: 4 (OT category)
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects (WD Series)
 
+### 🧠 Neuroscience Visualization Suite
 <a href="https://github.com/Nsada2025/WD109_brain-3d-visualization">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD109_brain-3d-visualization&theme=radical" />
 </a>
-<a href="https://github.com/Nsada2025/WD107_PACVisualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD107_PACVisualizer&theme=radical" />
+<a href="https://github.com/Nsada2025/WD110_dopamine-flow-sankey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD110_dopamine-flow-sankey&theme=radical" />
+</a>
+
+### 📊 Data Analysis & Visualization
+<a href="https://github.com/Nsada2025/WD111_brain-activity-heatmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD111_brain-activity-heatmap&theme=radical" />
+</a>
+<a href="https://github.com/Nsada2025/WD103_EmployeeSimulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD103_EmployeeSimulation&theme=radical" />
+</a>
+
+### 🌐 Web Applications
+<a href="https://github.com/Nsada2025/WD112_academic-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD112_academic-website&theme=radical" />
+</a>
+<a href="https://github.com/Nsada2025/WD108_directory-project-codes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nsada2025&repo=WD108_directory-project-codes&theme=radical" />
 </a>
 
 ## 📫 Get in Touch
