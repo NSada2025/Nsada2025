@@ -87,9 +87,34 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 
 ## 📊 GitHub Stats
 
-![Nsada2025's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsada2025&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nsada2025&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsada2025&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-## 🏆 Repository Overview
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nsada2025&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nsada2025/Nsada2025/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nsada2025/Nsada2025/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nsada2025/Nsada2025/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 📈 Activity & Metrics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nsada2025&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Nsada2025?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Nsada2025?style=social)
+
+### 📊 Repository Overview
 
 - **Total Repositories**: 22
 - **Project-Coded Repositories**: 18
@@ -129,8 +154,29 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 - 💼 Professional Focus: Medical Practice, Healthcare Technology
 - 🌍 Open to: Collaborations, Research Opportunities, Open Source Contributions
 
+## 🎯 Current Focus
+
+- 🔬 Developing novel visualization tools for neuroscience research
+- 🧠 Implementing computational models of brain function
+- 💊 Investigating protein aggregation in neurodegenerative diseases
+- 🤖 Applying active inference frameworks to cognitive neuroscience
+- 📊 Building data analysis pipelines for neurophysiological data
+
+## 💡 Recent Achievements
+
+- 🎓 JSPS Research Fellow (DC1) - 2024
+- 🏥 Medical Doctor License - 2023
+- 🏆 Multiple research presentations at international conferences
+- 📝 Published papers on neurodegeneration and protein aggregation
+
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
+</p>
+
+<p align="center">
   <i>🚀 Always learning, always building!</i>
+  <br>
+  <i>🧬 Bridging Medicine, Neuroscience, and Technology</i>
 </p>
