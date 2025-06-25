@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 ## 🧬 Research Projects
 
 ### 🧠 DN - Department/Laboratory Research
-- **[DN001_TF](https://github.com/Nsada2025/DN001_TF)** - Tapered Fiber High-Order Brain Function Research (疋田研究室)
-- **[DN002_Learningrate](https://github.com/Nsada2025/DN002_Learningrate)** - Research on Learning Rate Mechanisms
-- **[DN003_MemoryandReward](https://github.com/Nsada2025/DN003_MemoryandReward)** - Memory and Reward System Research
+- **[DN001_TF](https://github.com/Nsada2025/DN001_TF)** - テーパードファイバー（Tapered Fiber）高次脳機能研究プロジェクト
+- **[DN001_PETH_GRABDA](https://github.com/Nsada2025/DN001_PETH_GRABDA)** - PETH解析・GRABDAセンサー関連
+- **[DN002_Learningrate](https://github.com/Nsada2025/DN002_Learningrate)** - 学習率に関する研究プロジェクト
+- **[DN004_research-shared-toolkit](https://github.com/Nsada2025/DN004_research-shared-toolkit)** - 研究用共有ツールキット（MATLAB）
 
 ### 🤖 AI - Artificial Intelligence & Machine Learning
 - **[AI001_Active_Inference](https://github.com/Nsada2025/AI001_Active_Inference)** - Active Inference Research Project (能動的推論)
@@ -25,13 +26,15 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 - **[WD102_NeedsExplorer](https://github.com/Nsada2025/WD102_NeedsExplorer)** - Needs Exploration & Requirements Definition Support Tool
 - **[WD103_EmployeeSimulation](https://github.com/Nsada2025/WD103_EmployeeSimulation)** - Employee Simulation Tool
 - **[WD104_AssetManagement](https://github.com/Nsada2025/WD104_AssetManagement)** - Asset Management System
-- **[WD105_ClaudeTools](https://github.com/Nsada2025/WD105_ClaudeTools)** - Claude-related Tools & Log Viewer
+- **[WD105_Claude-Code-Communication](https://github.com/Nsada2025/WD105_Claude-Code-Communication)** - Claude Code Communication Tools
 - **[WD106_ChatGPT_Log_Converter](https://github.com/Nsada2025/WD106_ChatGPT_Log_Converter)** - ChatGPT Dialog Log to Obsidian Markdown Converter
 - **[WD107_PACVisualizer](https://github.com/Nsada2025/WD107_PACVisualizer)** - Phase-Amplitude Coupling (PAC) Visualization Tool
 - **[WD108_directory-project-codes](https://github.com/Nsada2025/WD108_directory-project-codes)** - Project Code Management System
 - **[WD109_brain-3d-visualization](https://github.com/Nsada2025/WD109_brain-3d-visualization)** - 3D Dopamine Neural System Visualization (React/Three.js)
 - **[WD110_dopamine-flow-sankey](https://github.com/Nsada2025/WD110_dopamine-flow-sankey)** - Dopamine Pathway Flow Diagram (Vue.js/D3.js)
-- **[WD111_brain-activity-heatmap](https://github.com/Nsada2025/WD111_brain-activity-heatmap)** - Brain Activity Spatiotemporal Heatmap (FastAPI/Plotly)
+- **[WD111_brain-activity-heatmap](https://github.com/Nsada2025/WD111_brain-activity-heatmap)** - 脳活動時空間ヒートマップ（FastAPI/Plotly）
+- **[WD112_academic-website](https://github.com/Nsada2025/WD112_academic-website)** - 学術用ウェブサイト（academic-images含む）
+- **[WD113_my-website](https://github.com/Nsada2025/WD113_my-website)** - 個人ウェブサイト
 
 ## 📚 Professional & Academic Projects
 
@@ -46,6 +49,20 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 
 ### 📁 AD - Administration
 - **[AD001_SSD_Migration_Archive](https://github.com/Nsada2025/AD001_SSD_Migration_Archive)** - SSD Migration Archive (Personal Documents)
+
+### 🧪 OT - Others (Experimental/Test)
+- **[OT000_experiment-practice](https://github.com/Nsada2025/OT000_experiment-practice)** - 練習用リポジトリ
+- **[OT000_test-repo](https://github.com/Nsada2025/OT000_test-repo)** - テスト用リポジトリ
+- **[OT000_private-sandbox](https://github.com/Nsada2025/OT000_private-sandbox)** - 個人実験場
+- **[OT000_origin](https://github.com/Nsada2025/OT000_origin)** - その他
+
+### 🔀 Forked Repositories
+- **[stable-baselines3](https://github.com/Nsada2025/stable-baselines3)** - PyTorch version of Stable Baselines (RL algorithms)
+- **[yurukagaku](https://github.com/Nsada2025/yurukagaku)** - ゆる科学
+- **[doctor-funding-calendar](https://github.com/Nsada2025/doctor-funding-calendar)** - 博士学生向け資金カレンダー
+
+### 📷 Related Resources
+- **[academic-images](https://github.com/Nsada2025/academic-images)** - AI-generated and curated images for academic website
 
 ## 🛠️ Tech Stack
 
@@ -71,6 +88,14 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 ## 📊 GitHub Stats
 
 ![Nsada2025's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsada2025&show_icons=true&theme=radical)
+
+## 🏆 Repository Overview
+
+- **Total Repositories**: 22
+- **Project-Coded Repositories**: 18
+- **Research Projects**: 6 (DN, AI, DM, YA categories)
+- **Web Development**: 13 (WD category)
+- **Others**: 4 (OT category)
 
 ## 🌟 Featured Projects
 
