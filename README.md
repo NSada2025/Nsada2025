@@ -4,12 +4,6 @@ Welcome to my GitHub profile! I'm passionate about neuroscience, artificial inte
 
 ## 🧬 Research Projects
 
-### 🧠 DN - Department/Laboratory Research
-- **[DN001_TF](https://github.com/Nsada2025/DN001_TF)** - テーパードファイバー（Tapered Fiber）高次脳機能研究プロジェクト
-- **[DN001_PETH_GRABDA](https://github.com/Nsada2025/DN001_PETH_GRABDA)** - PETH解析・GRABDAセンサー関連
-- **[DN002_Learningrate](https://github.com/Nsada2025/DN002_Learningrate)** - 学習率に関する研究プロジェクト
-- **[DN004_research-shared-toolkit](https://github.com/Nsada2025/DN004_research-shared-toolkit)** - 研究用共有ツールキット（MATLAB）
-
 ### 🤖 AI - Artificial Intelligence & Machine Learning
 - **[AI001_Active_Inference](https://github.com/Nsada2025/AI001_Active_Inference)** - Active Inference Research Project (能動的推論)
 
