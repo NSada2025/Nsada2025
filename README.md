@@ -33,7 +33,7 @@ I am a neuroscience researcher specializing in the neural mechanisms of decision
 <div align="center">
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,r,matlab,anaconda,sklearn,git,github,latex,vscode,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,anaconda,git,github,vscode,linux,bash&perline=4)](https://skillicons.dev)
 
 </div>
 
